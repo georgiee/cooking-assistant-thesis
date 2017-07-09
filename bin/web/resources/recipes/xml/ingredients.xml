@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+	<collection id="0003_auberginen">
+		<ingredient>
+			<title>Große Auberginen</title>
+			<unitLabel></unitLabel>
+			<amount>4</amount>
+		</ingredient>
+		<ingredient>
+			<title>Sonnenblumenöl</title>
+			<unitLabel>ml</unitLabel>
+			<amount>150</amount>
+		</ingredient>
+		<ingredient>
+			<title>geriebener Parmesankäse oder Gouda</title>
+			<unitLabel>g</unitLabel>
+			<amount>50</amount>
+		</ingredient>
+		<ingredient>
+			<title>Salz</title>
+			<unitLabel></unitLabel>
+			<amount></amount>
+		</ingredient>
+		<ingredient>
+			<spacer>1</spacer>
+			<title>Für die Sauce:</title>
+			<unitLabel></unitLabel>
+			<amount></amount>
+		</ingredient>
+		<ingredient>
+			<title>kaltgepresstes Olivenöl</title>
+			<unitLabel>ml</unitLabel>
+			<amount>50</amount>
+		</ingredient>
+		<ingredient>
+			<title>Knoblauchzehen, zerdrückt</title>
+			<unitLabel></unitLabel>
+			<amount>2</amount>
+		</ingredient>
+		<ingredient>
+			<title>Tomaten aus der Dose</title>
+			<unitLabel>g</unitLabel>
+			<amount>800</amount>
+		</ingredient>
+		<ingredient>
+			<title>Tomatenmark</title>
+			<unitLabel>TL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Zucker</title>
+			<unitLabel>TL</unitLabel>
+			<amount>0.5</amount>
+		</ingredient>
+		<ingredient>
+			<title>getrockneter Oregano</title>
+			<unitLabel>TL</unitLabel>
+			<amount>0.5</amount>
+		</ingredient>
+		<ingredient>
+			<title>gehackte glatte Petersilie</title>
+			<unitLabel>EL</unitLabel>
+			<amount>3</amount>
+		</ingredient>
+	</collection>
+	<collection id="0001_hackfleisch">
+		<ingredient>
+			<title>mitteldicke Scheiben Weißbrot, Kruste entfernt</title>
+			<unitLabel></unitLabel>
+			<amount>3</amount>
+		</ingredient>
+		<ingredient>
+			<title>Hackfleisch vom Lamm oder Rind</title>
+			<unitLabel>g</unitLabel>
+			<amount>700</amount>
+		</ingredient>
+		<ingredient>
+			<title>gemahlener Kreuzkümmel</title>
+			<unitLabel>EL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Ei, verquirlt</title>
+			<unitLabel></unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Salz, frisch gemahlener Schwarzer Pfeffer</title>
+			<unitLabel></unitLabel>
+			<amount></amount>
+		</ingredient>
+		<ingredient>
+			<title>Mehl</title>
+			<unitLabel>g</unitLabel>
+			<amount>30</amount>
+		</ingredient>
+		<ingredient>
+			<title>Sonnenblumenöl (zum Braten)</title>
+			<unitLabel>ml</unitLabel>
+			<amount>50</amount>
+		</ingredient>
+		<ingredient>
+			<spacer>1</spacer>
+			<title>Für die Sauce:</title>
+		</ingredient>
+		<ingredient>
+			<title>Olivenöl</title>
+			<unitLabel>ml</unitLabel>
+			<amount>50</amount>
+		</ingredient>
+		<ingredient>
+			<title>Kreuzkümmmel (Samen)</title>
+			<unitLabel>TL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Tomaten aus der Dose, grob zerkleinert</title>
+			<unitLabel>g</unitLabel>
+			<amount>400</amount>
+		</ingredient>
+		<ingredient>
+			<title>Tomatenmark, in 150 ml heißem Wasser aufgelöst</title>
+			<unitLabel>EL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>getrockneter Oregano</title>
+			<unitLabel>TL</unitLabel>
+			<amount>0.5</amount>
+		</ingredient>
+		<ingredient>
+			<title>grüne Oliven, entsteint</title>
+			<unitLabel></unitLabel>
+			<amount>16</amount>
+		</ingredient>
+	</collection>
+	<collection id="0000_kaesetaschen">
+		<ingredient>
+			<title>großes Ei</title>
+			<unitLabel></unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Feta-Käse</title>
+			<unitLabel>g</unitLabel>
+			<amount>150</amount>
+		</ingredient>
+		<ingredient>
+			<title>Milch</title>
+			<unitLabel>EL</unitLabel>
+			<amount>2</amount>
+		</ingredient>
+		<ingredient>
+			<title>gehackte frische Minzeblätter</title>
+			<unitLabel>EL</unitLabel>
+			<amount>2</amount>
+		</ingredient>
+		<ingredient>
+			<title>Rosinen</title>
+			<unitLabel>EL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Pinienkerne, leicht geröstet</title>
+			<unitLabel>EL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Etwas Pflanzenöl (zum Einfetten des Backblechs)</title>
+			<unitLabel></unitLabel>
+			<amount></amount>
+		</ingredient>
+		<ingredient>
+			<title>Eigelb, verquirlt (zum Bestreichen)</title>
+			<unitLabel></unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Mehl</title>
+			<unitLabel>g</unitLabel>
+			<amount>250</amount>
+		</ingredient>
+		<ingredient>
+			<title>gestrichen, Backpulver</title>
+			<unitLabel>TL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>kaltgepresstes Olivenöl</title>
+			<unitLabel>ml</unitLabel>
+			<amount>50</amount>
+		</ingredient>
+		<ingredient>
+			<title>Butter, geschmolzen</title>
+			<unitLabel>g</unitLabel>
+			<amount>20</amount>
+		</ingredient>
+		<ingredient>
+			<title>griechischer Joghurt</title>
+			<unitLabel>g</unitLabel>
+			<amount>100</amount>
+		</ingredient>
+	</collection>
+	<collection id="0002_miesmuscheln">
+		<ingredient>
+			<title>geschlossene große Miesmuscheln</title>
+			<unitLabel></unitLabel>
+			<amount>20</amount>
+		</ingredient>
+		<ingredient>
+			<title>Salz</title>
+			<unitLabel></unitLabel>
+			<amount></amount>
+		</ingredient>
+		<ingredient>
+			<title>Langkornreis</title>
+			<unitLabel>g</unitLabel>
+			<amount>50</amount>
+		</ingredient>
+		<ingredient>
+			<title>winzig kleine Korinthen</title>
+			<unitLabel>EL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Schalotten</title>
+			<unitLabel></unitLabel>
+			<amount>3</amount>
+		</ingredient>
+		<ingredient>
+			<title>Olivenöl</title>
+			<unitLabel>EL</unitLabel>
+			<amount>4</amount>
+		</ingredient>
+		<ingredient>
+			<title>Pinienkerne</title>
+			<unitLabel>EL</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Zimtpulver</title>
+			<unitLabel>Msp.</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Pimentpulver</title>
+			<unitLabel>Msp.</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>getrocknete Minze</title>
+			<unitLabel>TL</unitLabel>
+			<amount>0.5</amount>
+		</ingredient>
+		<ingredient>
+			<title>Zucker</title>
+			<unitLabel>Msp.</unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Dillzweige</title>
+			<unitLabel></unitLabel>
+			<amount>2</amount>
+		</ingredient>
+		<ingredient>
+			<title>Küchengarn</title>
+			<unitLabel></unitLabel>
+			<amount></amount>
+		</ingredient>
+		<ingredient>
+			<title>unbehandelte Zitrone</title>
+			<unitLabel></unitLabel>
+			<amount>1</amount>
+		</ingredient>
+		<ingredient>
+			<title>Bund glatte Petersilie</title>
+			<unitLabel></unitLabel>
+			<amount>1</amount>
+		</ingredient>
+	</collection>
+</recipes>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundles>
+	<resourcebundles>
+		<bundle>
+			<file>labels.xml</file>
+			<name>labels</name>
+		</bundle>
+	</resourcebundles>
+</bundles>

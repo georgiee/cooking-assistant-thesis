@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+	<guidesystem>
+		<guideitem>
+			<id>brot_einweichen</id>
+			<title>Brot in Wasser einweichen</title>
+			<duration>600</duration>
+		</guideitem>
+		<guideitem>
+			<id>schmoren_30</id>
+			<title>30 Minuten schmoren</title>
+			<duration>1800</duration>
+		</guideitem>
+		<guideitem>
+			<id>kochen_30</id>
+			<title>30 Minuten leicht kochen lassen</title>
+			<duration>1800</duration>
+		</guideitem>
+		<guideitem>
+			<id>backen_40</id>
+			<title>40 Minuten backen</title>
+			<duration>2400</duration>
+		</guideitem>
+		<guideitem>
+			<id>backen_20</id>
+			<title>20 Minuten backen</title>
+			<duration>1200</duration>
+		</guideitem>
+		<guideitem>
+			<id>daempfen_5</id>
+			<title>5 Minuten dämpfen</title>
+			<duration>300</duration>
+		</guideitem>
+		<guideitem>
+			<id>schmoren_3</id>
+			<title>3 Minuten schmoren</title>
+			<duration>180</duration>
+		</guideitem>
+	</guidesystem>
+</recipes>

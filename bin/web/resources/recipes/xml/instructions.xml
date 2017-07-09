@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+	<collection id="0003_auberginen">
+		<instruction>
+			<title>Schritt 1</title>
+			<guideitemID/>
+			<description><![CDATA[Auberginen putzen...]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1474.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1474.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 2</title>
+			<guideitemID/>
+			<description><![CDATA[...längs in ein Zentimeter dicke Scheiben schneiden.]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1491.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1491.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 3</title>
+			<guideitemID/>
+			<description><![CDATA[Öl erhitzen und Auberginenscheiben portionsweise auf beiden Seiten braten]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1592.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1592.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 4</title>
+			<guideitemID/>
+			<description><![CDATA[Auberginenscheiben in zwei Lagen in eine Auflaufform schichten, Salzen und pfeffern.]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1649.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1649.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 5</title>
+			<guideitemID/>
+			<description><![CDATA[Für die Sauce Öl in einer großen Pfanne leicht erhitzen]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1521.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1521.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 6</title>
+			<guideitemID/>
+			<description><![CDATA[Knoblauchzehen vorbereiten...]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1656.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1656.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 7</title>
+			<guideitemID/>
+			<description><![CDATA[...dann zerkleinern und ein paar Sekunden andünsten]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1685.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1685.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 8</title>
+			<guideitemID/>
+			<description><![CDATA[, dann Tomaten, Tomatenmark, Zucker und Oregano unterrühren, nach Belieben salzen und pfeffern.]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1699.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1699.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 9</title>
+			<guideitemID>kochen_30</guideitemID>
+			<description><![CDATA[Zugedeckt 25- 30 Minuten leicht kochen lassen, bis die Sauce eindickt und cremig wird, dabei gelegentlich umrühren]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1742.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1742.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 10</title>
+			<guideitemID>schmoren_3</guideitemID>
+			<description><![CDATA[Petersilie zugeben und 2-3 Minuten mitschmoren. In der Zwischenzeit Backofen auf 180 °C (Umluft 180 °C, Gas Stufe 4) vorheizen.]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1724.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1724.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 11</title>
+			<guideitemIDRequired>kochen_30,schmoren_3</guideitemIDRequired>
+			<description><![CDATA[Tomatensauce auf den Auberginen verteilen,...]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1763.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1763.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 12</title>
+			<guideitemID/>
+			<description><![CDATA[...mit Käse bestreuen...]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1780.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1780.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 13</title>
+			<guideitemID>backen_40</guideitemID>
+			<description><![CDATA[...und 40 Minuten backen.]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1795.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1795.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Ende</title>
+			<guideitemIDRequired>backen_40</guideitemIDRequired>
+			<description><![CDATA[Lassen Sie sich Ihre Auberginen mit Tomaten und Käse überbacken schmecken.]]></description>
+			<image>resources/recipes/images/instructions/0003_auberginen/IMG_1841.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1841.jpg</thumb>
+		</instruction>
+	</collection>
+	<collection id="0001_hackfleisch">
+		<instruction>
+			<title>Schritt 1</title>
+			<guideitemID/>
+			<description><![CDATA[Brotscheiben zerkleinern...]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2075.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2075.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 2</title>
+			<guideitemID>brot_einweichen</guideitemID>
+			<description><![CDATA[Brot 10 Minuten in Wasser einweichen.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2075.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2075.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 3</title>
+			<guideitemID/>
+			<description><![CDATA[Hackfleisch in eine Schüssel geben.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2072.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2072.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 4</title>
+			<guideitemID/>
+			<description><![CDATA[Ei zugeben]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2092.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2092.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 5</title>
+			<guideitemID/>
+			<description><![CDATA[Mit Salz und Pfeffer würzen]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2111.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2111.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 6</title>
+			<description><![CDATA[Brot ausdrücken, zum Hackfleisch hinzugeben und alles mit einer Gabel oder mit den Händen gründlich verkneten]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2114.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2114.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 7</title>
+			<guideitemIDRequired>brot_einweichen</guideitemIDRequired>
+			<guideitemID/>
+			<description><![CDATA[Jeweils eine walnussgroße menge Fleischteig zu einem kurzen dünnen Würstchen formen.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2132.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2132.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 8</title>
+			<guideitemID/>
+			<description><![CDATA[Wenn der Fleischteig aufgebraucht ist, die Würstchen in Mehl wenden, überschüssiges Mehl abklopfen.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2146.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2146.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 9</title>
+			<guideitemID/>
+			<description><![CDATA[Sonnenblumenöl in einer großen beschichteten Pfannen erhitzen...]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2154.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2154.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 10</title>
+			<guideitemID/>
+			<description><![CDATA[...und die soutzoukakia, wenn nötig portionsweise, rundum goldbraun braten.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2177.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2177.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 11</title>
+			<guideitemID/>
+			<description><![CDATA[Herausnehmen und in eine Schüssel geben. Das restliche Öl in der Pfanne abgießen.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2163.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2163.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 12</title>
+			<guideitemID/>
+			<description><![CDATA[Für die Sauce Olivenöl in einem großen Schmortopf erhitzen und Kreuzkümmel kurz anrösten, bis er zu duften anfängt. Tomaten zugeben und etwas 2 Minuten unterrühren und dabei zerkleinern.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2190.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2190.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 13</title>
+			<guideitemID/>
+			<description><![CDATA[Das aufgelöste Tomatenmark dazugießen und alles gut verrühren.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2198.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2198.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 14</title>
+			<guideitemID/>
+			<description><![CDATA[Sauce mit den Soutzoukakia vermengen.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2204.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2204.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 15</title>
+			<guideitemID/>
+			<description><![CDATA[Oregano und Oliven unterrühren...]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2223.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2223.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 16</title>
+			<guideitemID/>
+			<description><![CDATA[... und mit Salz und Pfeffer abschmecken.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2229.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2229.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 17</title>
+			<guideitemID>schmoren_30</guideitemID>
+			<description><![CDATA[Soutzoukakia mit der Sauce bedecken, dann zugedeckt bei schwacher Hitze 30 Minuten schmoren, dabei Topf gelegentlich rütteln, damit nichts im Topfboden anlegt.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2277.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2277.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 18</title>
+			<guideitemID/>
+			<description><![CDATA[In eine Servierform geben und servieren.]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2277.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2277.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Ende</title>
+			<guideitemIDRequired>schmoren_30</guideitemIDRequired>
+			<description><![CDATA[Lassen Sie sich Ihre Hackfleischklößchen mit Kreuzkümmel und grünen Oliven schmecken!]]></description>
+			<image>resources/recipes/images/instructions/0001_hackfleisch/IMG_2277.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2277.jpg</thumb>
+		</instruction>
+	</collection>
+	<collection id="0000_kaesetaschen">
+		<instruction>
+			<title>Schritt 1</title>
+			<guideitemID/>
+			<description><![CDATA[Mehl mit der geschmolzenen Butter, ]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2293.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2293.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 2</title>
+			<guideitemID/>
+			<description><![CDATA[dem Öl,]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2300.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2300.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 3</title>
+			<guideitemID/>
+			<description><![CDATA[und dem Joghurt verkneten.]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2301.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2301.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 4</title>
+			<guideitemID/>
+			<description><![CDATA[Teig zugedeckt 15 Minuten im Kühlschrank ruhen lassen.]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2306.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2306.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 5</title>
+			<guideitemID/>
+			<description><![CDATA[Die Pinienkerne in einer Pfanne leicht rösten.]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2339.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2339.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 6</title>
+			<guideitemID/>
+			<description><![CDATA[Für die Füllung das Ei in einer Schussel leicht verschlagen.]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2314.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2314.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 7</title>
+			<guideitemID/>
+			<description><![CDATA[Käse dazukrümeln]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2319.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2319.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 8</title>
+			<guideitemID/>
+			<description><![CDATA[Milch, Minze, Rosinen und Pinienkerne unterrühren.]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2329.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2329.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 9</title>
+			<guideitemID/>
+			<description><![CDATA[Backofen auf 190 °C (Umluft 170 °C, Gas Stufe 5) vorheizen.]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2331.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2331.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 10</title>
+			<guideitemID/>
+			<description><![CDATA[Die Hälfte des Teigs auf bemehlter Arbeitsflache dünn ausrollen]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2346.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2346.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 11</title>
+			<guideitemID/>
+			<description><![CDATA[und mit einer Tasse Kreise ausstechen.]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2370.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2370.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 12</title>
+			<guideitemID/>
+			<description><![CDATA[In die Mitte einen gehäuften Teelöffel der Füllung geben]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2371.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2371.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 13</title>
+			<guideitemID/>
+			<description><![CDATA[Die Ränder fest zusammendrücken]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2386.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2386.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Schritt 14</title>
+			<guideitemID>backen_20</guideitemID>
+			<description><![CDATA[ und Täschchen auf das geölte Back blech setzen. Täschchen mit verquirltem Eigelb bestreichen und 20 Minuten backen.]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2388.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2388.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>Ende</title>
+			<guideitemIDRequired>backen_20</guideitemIDRequired>
+			<description><![CDATA[Lassen Sie sich Ihre Käsetäschchen mit Rosinen und Pinienkernen schmecken!]]></description>
+			<image>resources/recipes/images/instructions/0000_kaesetaschen/IMG_2412.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2412.jpg</thumb>
+		</instruction>
+	</collection>
+	<collection id="0002_miesmuscheln">
+		<instruction>
+			<title>IMG_1845</title>
+			<guideitemID/>
+			<description><![CDATA[Muscheln unter fließendem kaltem Wasser waschen. Bereits geöffnete Muscheln herauslesen und wegwerfen.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1845.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1845.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1877</title>
+			<guideitemID/>
+			<description><![CDATA[entbarten]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1877.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1877.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1852</title>
+			<guideitemID/>
+			<description><![CDATA[Fremdkörper entfernen]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1852.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1852.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1900</title>
+			<guideitemID/>
+			<description><![CDATA[1/4 l Salzwasser in einem großen Topf zum Kochen bringen. Muscheln hineingeben und ]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1900.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1900.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1918</title>
+			<guideitemID>daempfen_5</guideitemID>
+			<description><![CDATA[zugedeckt bei starker Hitze 5-7 Min. dämpfen, bis sie sich geöffnet haben, den Topf zwischendurch mehrmals rütteln.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1922.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1922.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1932</title>
+			<guideitemID/>
+			<description><![CDATA[Muscheln in ein Sieb geben und abkühlen lassen. Jetzt noch geschlossene Muscheln wegwerfen, sie sind ungenießbar.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1932.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1932.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1936</title>
+			<guideitemID/>
+			<guideitemIDRequired>daempfen_5</guideitemIDRequired>
+			<description><![CDATA[Reis in einem Sieb abspülen und abtropfen lassen. Korinthen heiß waschen. Schalotten schälen und fein hacken.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1936.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1936.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1957</title>
+			<guideitemID/>
+			<description><![CDATA[Olivenöl in einer Kasserolle erhitzen und Schalotten darin glasig dünsten.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1957.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1957.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1959</title>
+			<guideitemID/>
+			<description><![CDATA[Pinienkerne und Reis bei mittlerer Hitze etwa 1 Min. mitbraten. Korinthen, Zimt, Pimentpulver, Minze, Salz und Zucker unterrühren. 1/8 Wasser angießen. Reis bei schwacher Hitze zugedeckt etwa 20 Min. vorgaren.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1959.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1959.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1968</title>
+			<guideitemID/>
+			<description><![CDATA[Reis abkühlen lassen. Dill waschen und trockenschütteln, die Blättchen hacken und untermischen.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1968.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1968.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1977</title>
+			<guideitemID/>
+			<description><![CDATA[Je 1 TL Reis in jede Muschel auf das Muschelfleisch geben, die Füllung andrücken.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1977.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1977.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1973</title>
+			<guideitemID/>
+			<description><![CDATA[Muscheln schließen, mit Küchengarn umwickeln]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_2011.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2011.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_1986</title>
+			<guideitemID/>
+			<description><![CDATA[und nebeneinander in einen Topf legen. 1/4 l Wasser angießen, Muscheln bei schwacher Hitze in etwa 15 Min. garziehen und im Topf erkalten lassen.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_1986.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_1986.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_2011</title>
+			<guideitemID/>
+			<description><![CDATA[Zitrone heiß waschen und achteln. Petersilie waschen und trockenschütteln, die Stengel einkürzen.
+Muscheln vorsichtig öffnen, dabei das Küchengarn entfernen, so dass Reis und Muschel auf einer Schale liegen bleiben.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_2011.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2011.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_2058</title>
+			<guideitemID/>
+			<description><![CDATA[Gefüllte Muschelhälften nebeneinander auf einer Platte mit Zitronenachteln und Petersilienzweigen garniert anrichten. Als Vorspeise servieren.]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_2058.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2058.jpg</thumb>
+		</instruction>
+		<instruction>
+			<title>IMG_2015</title>
+			<guideitemID/>
+			<description><![CDATA[Lassen Sie sich Ihre gefüllten Miesmuscheln schmecken!]]></description>
+			<image>resources/recipes/images/instructions/0002_miesmuscheln/IMG_2015.jpg</image>
+			<thumb>resources/recipes/images/instructions/thumbs/IMG_2015.jpg</thumb>
+		</instruction>
+	</collection>
+</recipes>

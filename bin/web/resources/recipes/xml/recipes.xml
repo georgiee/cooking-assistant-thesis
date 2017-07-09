@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+	<recipe>
+		<id>1</id>
+		<title>Käsetäschchen mit Rosinen und Pinienkernen</title>
+		<previewImage>resources/recipes/images/recipes/_0000_kaesetaschen.jpg</previewImage>
+		<categories>fleisch</categories>
+		<instructionCollectionId>0000_kaesetaschen</instructionCollectionId>
+		<ingredientCollectionId>0000_kaesetaschen</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>2</id>
+		<title>Hackfleischklößchen mit Kreuzkümmel und grünen Oliven</title>
+		<previewImage>resources/recipes/images/recipes/_0001_hackfleisch.jpg</previewImage>
+		<categories>fleisch</categories>
+		<instructionCollectionId>0001_hackfleisch</instructionCollectionId>
+		<ingredientCollectionId>0001_hackfleisch</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>3</id>
+		<title>Gefüllte Miesmuscheln</title>
+		<previewImage>resources/recipes/images/recipes/_0002_miesmuscheln.jpg</previewImage>
+		<categories>fleisch</categories>
+		<instructionCollectionId>0002_miesmuscheln</instructionCollectionId>
+		<ingredientCollectionId>0002_miesmuscheln</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>4</id>
+		<title>Auberginen mit Tomaten und Käse überbacken</title>
+		<previewImage>resources/recipes/images/recipes/_0003_auberginen.jpg</previewImage>
+		<categories>fleisch</categories>
+		<instructionCollectionId>0003_auberginen</instructionCollectionId>
+		<ingredientCollectionId>0003_auberginen</ingredientCollectionId>
+	</recipe>
+
+	<!-- DEMO RECIPES-->
+	<recipe>
+		<id>5</id>
+		<title>Green Bean Casserole</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_1.jpg</previewImage>
+		<categories>fisch,suppe,salat,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>6</id>
+		<title>Garlicky Green Beans</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_3.jpg</previewImage>
+		<categories>fisch,suppe,salat,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>7</id>
+		<title>Classic Baked Beans</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_4.jpg</previewImage>
+		<categories>fleisch,fisch,suppe,salat,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>8</id>
+		<title>Apple Filled Pork Chops</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_5.jpg</previewImage>
+		<categories>fleisch,fisch,suppe,salat,asiatisch,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>9</id>
+		<title>Classic Chicken Salad</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_6.jpg</previewImage>
+		<categories>fleisch,fisch,vegetarisch,suppe,salat,dessert,pasta</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>10</id>
+		<title>Oven Baked Mac and Cheese</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_2.jpg</previewImage>
+		<categories>fleisch,fisch,suppe,salat,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>11</id>
+		<title>Blueberry Buttermilk Muffins</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_7.jpg</previewImage>
+		<categories>fleisch,fisch,suppe,salat,dessert,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>12</id>
+		<title>Pork Wonton Soup</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_8.jpg</previewImage>
+		<categories>fleisch,vegetarisch,suppe,salat,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>13</id>
+		<title>Rouille</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_9.jpg</previewImage>
+		<categories>fleisch,vegetarisch,suppe,salat,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>14</id>
+		<title>Pasta</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_10.jpg</previewImage>
+		<categories>fleisch,fisch,vegetarisch,suppe,salat,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>15</id>
+		<title>World’s Best Chili</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_11.jpg</previewImage>
+		<categories>fleisch,fisch,vegetarisch,suppe,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>16</id>
+		<title>Dijon Mustard Shrimp</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_12.jpg</previewImage>
+		<categories>fleisch,fisch,vegetarisch,suppe,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>17</id>
+		<title>Creamy Shrimp Chowder</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_13.jpg</previewImage>
+		<categories>fleisch,fisch,vegetarisch,suppe,salat,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>18</id>
+		<title>Steak with Red Wine Sauce</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_14.jpg</previewImage>
+		<categories>fleisch,fisch,vegetarisch,salat,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>19</id>
+		<title>Aussie Burgers</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_15.jpg</previewImage>
+		<categories>fleisch,fisch,vegetarisch,suppe,salat,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+	<recipe>
+		<id>20</id>
+		<title>Wiener Schnitzel</title>
+		<previewImage>resources/recipes/images/recipes/r_0000_16.jpg</previewImage>
+		<categories>fleisch,fisch,suppe,salat,dessert,asiatisch,pasta,italienisch</categories>
+		<instructionCollectionId>random</instructionCollectionId>
+		<ingredientCollectionId>random</ingredientCollectionId>
+	</recipe>
+</recipes>
